@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.top-margin-30{margin-top:30px}
+.top-margin-50{margin-top:50px}
+.top-margin-70{margin-top:70px}
+
+.left-margin-20{margin-left:20px}
+
+.main-img{background-image: url(mainPhoto.png);
+	min-width:100%;
+	min-height:320px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+}
+
+.name-title{
+	font-family: FiraSans;
+	color: #FFFFFF;
+	font-size: 60px;
+	font-weight: 700;
+	width:100%;
+	text-shadow:.099em .05em #000000;
+	
+}
+.major-title{
+	font-family: FiraSans;
+	color: #FFFFFF;
+	font-size: 36px;
+	font-weight: 500;
+	text-shadow:.099em .05em #000000;
+}
+
+.buttons{ width:300px; height:300px; color:#B1B1B1}
+
+.btn-portfolio{ background-image: url(1458816834_keyboard.png); width: 220px; height: 220px; background-repeat:no-repeat}
+.btn-contact{ background-image: url(1458816836_Email.png); width: 220px; height: 220px; background-repeat:no-repeat}
+.btn-resume{ background-image: url(1458816811_icon-57.png); width: 220px; height: 220px; background-repeat:no-repeat}
+.btn-about{ background-image: url(1458816830_male3.png); width: 220px; height: 220px; background-repeat:no-repeat}
+
+.nav-stuff{
+	height: 3px;
+	bottom: -20px;
+}
+.font-change{	
+	font-style:italic ;
+	font-size:20px;
+	font-family: "alexa-std",sans-serif;
+	font-weight: 400;
+}

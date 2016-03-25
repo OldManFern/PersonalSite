@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.img-background{
+	background-image: url(12046682_10207648181827091_2817801584653728718_n.png);
+	background-repeat:no-repeat;
+	min-height:720px;
+	
+}
+.about-title-font{
+	font-family: "kepler-std-semicondensed-dis",serif;
+}
+.about-me-small{
+	background-image:url(about_me_small.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 32px;
+}
+.experience-small{
+	background-image:url(experience_small.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 32px;
+}
+.portfolio-small{
+	background-image:url(portfolio_small.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 32px;
+}
+.contact-small{
+	background-image:url(contact_small.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	width: 32px;
+}
+
+.top-margin-80 {margin-top: 110px;}
+
+.top-margin-30 {margin-top: 30px;}
+
+
+
+.table-text-center{text-align: center;}
+
+
+
+
+	
+
+
+
+.img-responsive{
+	height:120px;
+	width: 120px;
+}
+.portfolio-sm{
+	font-size:12px
+}
+.portfolio-md{
+	font-size:16px;
+	font-weight:bold;
+}
+.section-titles{
+	font-style:italic ;
+	font-family: "alexa-std",sans-serif;
+	font-weight: 400;
+}
+.dates{
+	font-size:14px;
+	font-family: "kepler-std-semicondensed-dis",serif;
+}
+.extracurricular-title{
+	font-weight:bolder;
+	font-size:16px;
+	
+}
+.extracurricular-comments{
+	font-style:italic
+	
+}
+.extracurricular-sub-title{
+	font-weight:bold;
+	font-size:12px;
+	font-stretch:expanded;
+	
+}
+.experience-img{
+		background-image:url(experience_main.png);
+	background-repeat:no-repeat;
+	background-position:center;
+	min-height:330px;
+	
+}
+.pre-scrollable-height{
+	min-height:1200px;
+	overflow:hidden;
+}
